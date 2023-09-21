@@ -21,9 +21,9 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Paris.
 
-- :telescope: I’m a Junior Developer.
+- :telescope: I am looking for an internship starting from february 2024.
 
-- :seedling: Learning HTML, CSS, Javascript, PHP.
+- :seedling: Learning HTML, CSS, Javascript, PHP, GO, Python, NodeJS.
 
 - :zap: In my free time, I cook and read mangas.
 
