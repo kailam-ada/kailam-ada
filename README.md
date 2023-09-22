@@ -23,9 +23,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I am looking for an internship starting from february 2024.
 
-- :seedling: Learning HTML, CSS, Javascript, PHP, GO, Python, NodeJS.
+- :seedling: Currently making projects in HTML, CSS, Javascript, PHP. Next projects in GO, Python, NodeJS.
 
-- :zap: In my free time, I cook and read mangas.
+- :zap: In my free time, I cook, read mangas and play futsal.
 
 - :mailbox:How to reach me: [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-lam)
 
