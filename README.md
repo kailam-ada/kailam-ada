@@ -1,5 +1,8 @@
 <h1 align="center">Hello world 👋</h1>
-<h3 align="center">I'm Kai, a full stack developer from France</h3>
+<h3>I'm Kai, a full stack developer from France</h3>
+
+[![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
+[![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
 
 - 🔭 I’m currently working on **a mobile app.**
 
@@ -11,16 +14,9 @@
 
 - 🤝 I'm looking for an __intership__ from march 2023 to march 2024.
 
-- 📫 How to reach me **[kai_lam@hotmail.fr](mailto:kai_lam@hotmail.fr)**
+- 📫 How to reach me : **[kai_lam@hotmail.fr](mailto:kai_lam@hotmail.fr)**
 
-- ⚡ Fun fact: **On my free time I like to cook, read mangas and play futsal.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kai-lam" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-lam" height="30" width="40" />
-</a>
-</p>
+- ⚡ Fun fact : **On my free time I like to cook, read mangas and play futsal.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
