@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **[kai_lam@hotmail.fr](mailto:kai_lam@hotmail.fr)**
 
-- ⚡ Fun fact : **On my free time I like to cook, read mangas and play futsal.**
+- ⚡ Fun fact : **I actually slept at the Louvre as I did night watches at the museum for one month**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
