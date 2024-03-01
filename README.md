@@ -1,16 +1,16 @@
 <h1 align="center">Hello world 👋</h1>
-<h3>I'm Kai, a full stack developer looking for an intership</h3>
+<h3>I'm Kai, a full stack developer looking for an apprenticeship</h3>
 
 [![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
 [![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
 
-- 🔭 I’m currently working on **a mobile app.**
+- 🔭 I’m currently working on **a portfolio**.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Big O Notation**
 
 - 💻 I’m studying software development at [Ada Tech School](https://adatechschool.fr/), an __inclusive & feminist school!__
 
-- 👯 I’m working on group __full-stack projects__ (front-end & back-end).
+- 👯 I’m working on group __full stack projects__ (front-end & back-end).
 
 - 🤝 I'm looking for an __apprenticeship__ from march 2023 to march 2024.
 
