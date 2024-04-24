@@ -12,7 +12,7 @@
 
 - 👯 I’m working on group __full stack projects__ (front-end & back-end).
 
-- 🤝 I'm looking for an __apprenticeship__ from march 2023 to march 2024.
+- 🤝 I'm looking for an __apprenticeship__ .
 
 - 📫 How to reach me : **[kai_lam@hotmail.fr](mailto:kai_lam@hotmail.fr)**
 
