@@ -40,7 +40,7 @@ Full stack developer looking for an apprenticeship.
 <img width="800" alt="Airbnb Clone" src="https://github.com/kailam-ada/kailam-ada/assets/135039775/0599595d-4c99-4826-9d82-ac9dddca322f"><br/>
 You can check the project **[here](https://kai-airbnb-clone.vercel.app/)**.<br/>
 Repository **[here](https://github.com/kailam-ada/airbnb-clone)**.<br/>
-For this project I tried to make a basic Airbnb clone app.
+For this project I tried to make a basic Airbnb clone app.<br/>
 In an effort to adhere to the best practices of clean code, I undertook a refactoring of the codebase.<br/>
 I also migrated the front to TypeScript.<br/>
 **Project made with:**<br/>
