@@ -37,7 +37,7 @@ Full stack developer looking for an apprenticeship.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 🚀 Project
-<img width="800" alt="Airbnb Clone" src="https://github.com/kailam-ada/kailam-ada/assets/135039775/0599595d-4c99-4826-9d82-ac9dddca322f"><br/>
+<a href="https://kai-airbnb-clone.vercel.app/" target="_blank"><img width="800" alt="Airbnb Clone" src="https://github.com/kailam-ada/kailam-ada/assets/135039775/0599595d-4c99-4826-9d82-ac9dddca322f"></a><br/>
 You can check the project **[here](https://kai-airbnb-clone.vercel.app/)**.<br/>
 Repository **[here](https://github.com/kailam-ada/airbnb-clone)**.<br/>
 For this project I tried to make a basic Airbnb clone app.<br/>
