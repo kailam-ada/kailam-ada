@@ -12,7 +12,7 @@ We work on group __full stack projects__ (front-end & back-end). We learn to lea
 - ⚡ Fun fact : **I actually slept at the Louvre as I did night watches at the museum for one month**.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=kailam-ada&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Kai Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailam-ada&show_icons=true&theme=radical)
 
 # 💻 Languages and Tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
