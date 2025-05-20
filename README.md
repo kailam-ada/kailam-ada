@@ -5,9 +5,6 @@ Full stack developer looking for an apprenticeship.
 [![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
 
 - 📕 Currently learning **NoCode**.
-- 💻 Studying software development at [Ada Tech School](https://adatechschool.fr/), an __inclusive & feminist school !__<br/>
-We work on group __full stack projects__ (front-end & back-end). We learn to learn and to work autonomously.
-- 💼 Looking for an __apprenticeship__.
 - 📫 How to reach me : **[kai_lam@hotmail.fr](mailto:kai_lam@hotmail.fr)**
 - ⚡ Fun fact : **I actually slept at the Louvre as I did night watches at the museum for one month**.
 
